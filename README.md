@@ -1,63 +1,12 @@
-<!-- ==================== HEADER ==================== -->
-<h1 align="center" style="font-family: 'Poppins', sans-serif;">
+<h1 align="center">
 
-  👋 <span style="
-    font-weight: bold;
-    background: linear-gradient(90deg, #00ffcc, #00b3ff, #ff00cc);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    animation: gradientMove 3s infinite alternate;
-  ">Hello, I'm <span style="font-family:'Courier New', monospace;">Akilan K</span></span>
-  <br>
-
-  🚀 <span style="
-    display: inline-block;
-    font-weight: bold;
-    color: #ff69b4;
-    animation: floatText 2s ease-in-out infinite;
-  ">Aspiring Cloud & AI/ML Engineer</span>
-  <br>
-
-  🔐 <span style="
-    display: inline-block;
-    font-weight: bold;
-    color: #ff4500;
-    text-shadow: 0 0 10px #ff4500, 0 0 20px #ff784f;
-    animation: pulseGlow 1.8s infinite alternate;
-  ">Cybersecurity Enthusiast</span>
-  <br>
-
-  💻 <span style="
-    display: inline-block;
-    font-weight: bold;
-    color: #1E90FF;
-    text-shadow: 0 0 10px #1E90FF, 0 0 20px #00bfff;
-    animation: slideIn 2.5s ease-in-out infinite alternate;
-  ">Full-Stack Developer</span>
+👋 <span style="color:#00bfff;"><b>Hello, I'm <span style="font-family:'Courier New', monospace;">Akilan K</span></b></span>  
+🚀 <span style="color:#ff69b4;">Aspiring <b>Cloud & AI/ML Engineer</b></span>  
+🔐 <span style="color:#ff4500;">Cybersecurity Enthusiast</span>  
+💻 <span style="color:#1E90FF;">Full-Stack Developer</span>
 
 </h1>
 
-<style>
-@keyframes gradientMove {
-  from { background-position: 0% 50%; }
-  to { background-position: 100% 50%; }
-}
-
-@keyframes floatText {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-5px); }
-}
-
-@keyframes pulseGlow {
-  from { text-shadow: 0 0 5px #ff4500, 0 0 15px #ff784f; }
-  to { text-shadow: 0 0 20px #ff784f, 0 0 40px #ffa07a; }
-}
-
-@keyframes slideIn {
-  0% { transform: translateX(-5px); opacity: 0.7; }
-  100% { transform: translateX(5px); opacity: 1; }
-}
-</style>
 
 
 ---

@@ -41,7 +41,7 @@
 
 ---
 
-###🚀 Projects & Experience
+🚀 Projects & Experience
 
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
@@ -119,10 +119,9 @@
 </div>
 
 ---
-
 ### 🏆 Trophies & Recognition
 <div align="center">
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Akil81485&theme=radical&margin-w=10&margin-h=10)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Akil81485&theme=radical&row=1&column=5&margin-w=10&margin-h=10)
 </div>
 
 ---

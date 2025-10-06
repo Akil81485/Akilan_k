@@ -1,10 +1,12 @@
+<!-- ==================== HEADER ==================== -->
 <h1 align="center">
-👋 Hello, I'm <b>Akilan K</b>  
-🚀 Aspiring Cloud & AI/ML Engineer  
-🔐 Cybersecurity Enthusiast  
-💻 Full-Stack Developer
-</h1>
 
+👋 <span style="color:#00ffcc; font-weight:bold;">Hello, I'm <span style="font-family:'Courier New', monospace;">Akilan K</span></span>  
+🚀 <span style="color:#ff69b4; font-weight:bold;">Aspiring Cloud & AI/ML Engineer</span>  
+🔐 <span style="color:#ff4500; font-weight:bold;">Cybersecurity Enthusiast</span>  
+💻 <span style="color:#1E90FF; font-weight:bold;">Full-Stack Developer</span>
+
+</h1>
 
 ---
 ### 📫 Contact Me

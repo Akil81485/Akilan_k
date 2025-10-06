@@ -23,37 +23,21 @@
 - **Nandha Polytechnic College, Erode** — Diploma in Petrochemical Engineering | GPA: 9.48/10  
 
 ---
+### 🛠️ Skills
 
-### 🛠️ My Skills
-
-![Skill Chart](assets/skill_chart.png)
-
-import matplotlib.pyplot as plt
-
-# Skills and levels
-categories = ['Python', 'Java', 'C++', 'HTML', 'CSS', 'JavaScript', 'SQL', 'DSA', 'AI/ML Basics', 'TensorFlow', 'PyTorch']
-levels = [4, 2, 2, 4, 3, 4, 2, 1, 4, 2, 2]
-
-# Colors for categories
-colors = ['#306998', '#f89820', '#00599C', '#e34c26', '#264de4', '#f0db4f', '#336791', '#9b59b6', '#2ecc71', '#f58220', '#e74c3c']
-
-# Plot horizontal bar chart
-plt.figure(figsize=(10,6))
-bars = plt.barh(categories, levels, color=colors)
-plt.xlim(0,5)
-plt.xlabel('Skill Level (out of 5)')
-plt.title('Professional Skill Chart')
-plt.gca().invert_yaxis()  # Highest skill on top
-
-# Label each bar with level
-for bar, level in zip(bars, levels):
-    plt.text(level + 0.1, bar.get_y() + bar.get_height()/2, str(level), va='center', fontweight='bold')
-
-plt.tight_layout()
-
-# Save chart as image
-plt.savefig("assets/skill_chart.png", dpi=300)
-plt.show()
+| Category               | Skill                  | Level |
+|------------------------|-----------------------|-------|
+| 💻 Programming         | Python                | 4 / 5 |
+|                        | Java                  | 2 / 5 |
+|                        | C++                   | 2 / 5 |
+| 🌐 Web Development     | HTML                  | 4 / 5 |
+|                        | CSS                   | 3 / 5 |
+|                        | JavaScript            | 4 / 5 |
+| 🗄️ Databases & DSA     | SQL                   | 2 / 5 |
+|                        | Data Structures       | 1 / 5 |
+| 🤖 AI / ML             | AI/ML Basics          | 4 / 5 |
+|                        | TensorFlow            | 2 / 5 |
+|                        | PyTorch               | 2 / 5 |
 
 ---
 

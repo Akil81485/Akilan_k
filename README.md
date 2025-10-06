@@ -1,3 +1,9 @@
+
+
+<!-- ==================== HEADER ==================== -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&pause=1000&color=00ffcc,ff69b4,ff4500,1E90FF,32CD32&center=true&vCenter=true&width=800&lines=👋+Hello,+I'm+Akilan+K;%F0%9F%9A%80+Aspiring+Cloud+%26+AI/ML+Engineer;%F0%9F%94%90+Cybersecurity+Enthusiast;%F0%9F%92%BB+Full-Stack+Developer" alt="Typing SVG" />
+</h1>
 <!-- ==================== HEADER ==================== -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00ffcc,ff69b4,ff4500&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hello,+I'm+Akilan+K;%F0%9F%9A%80+Aspiring+Cloud+%26+AI/ML+Engineer;%F0%9F%94%90+Cybersecurity+Enthusiast;%F0%9F%92%BB+Full-Stack+Developer" alt="Typing SVG" />
@@ -95,13 +101,31 @@
 </div>
 
 ---
+---
+
+### 📊 GitHub Stats & Analytics
+<div align="center">
+
+<!-- GitHub Stats Card with icons -->
+![Akilan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akil81485&show_icons=true&theme=radical&count_private=true&hide_border=false)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akil81485&layout=compact&theme=radical&hide_border=false)
+
+<!-- Followers, Stars, PRs, etc. as separate shields -->
+[![Followers](https://img.shields.io/github/followers/Akil81485?label=Followers&style=for-the-badge&color=blueviolet)](https://github.com/Akil81485?tab=followers)
+[![Stars](https://img.shields.io/github/stars/Akil81485?label=Stars&style=for-the-badge&color=yellowgreen)](https://github.com/Akil81485?tab=stars)
+[![Pull Requests](https://img.shields.io/github/issues-pr/Akil81485?label=Open+PRs&style=for-the-badge&color=orange)](https://github.com/Akil81485/pulls)
+
+</div>
+
+---
 
 ### 🏆 Trophies & Recognition
 <div align="center">
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Akil81485&theme=radical&margin-w=10&margin-h=10)
 </div>
 
----
 
 ### 💡 Quote
 > “Opportunities don’t happen. You create them.” — Chris Grosser

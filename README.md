@@ -2,7 +2,6 @@
   <img src="assets/typing-header.gif" alt="Hi, I'm Akilan K" />
 </h1>
 
-
 ---
 
 ### 📫 Contact Me

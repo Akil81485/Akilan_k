@@ -20,18 +20,13 @@
 
 ---
 
-### 🛠️ Technical Skills
-
-<div align="center">
-
-<b>Python:</b> <img src="https://progress-bar.dev/85/?title=Python&width=300&color=00ffcc&suffix=%25" /><br>
-<b>DSA:</b> <img src="https://progress-bar.dev/75/?title=DSA&width=300&color=ff6f61&suffix=%25" /><br>
-<b>Java:</b> <img src="https://progress-bar.dev/50/?title=Java&width=300&color=ffcc00&suffix=%25" /><br>
-<b>SQL:</b> <img src="https://progress-bar.dev/60/?title=SQL&width=300&color=3399ff&suffix=%25" /><br>
-<b>Web Development:</b> <img src="https://progress-bar.dev/65/?title=Web%20Dev&width=300&color=ff33cc&suffix=%25" /><br>
-<b>AI/ML:</b> <img src="https://progress-bar.dev/70/?title=AI/ML&width=300&color=cc33ff&suffix=%25" /><br>
-
-</div>
+### 🛠️ Skills
+**Python:** 🟩🟩🟩🟩🟨🟨🟧🟧🟥🟥 85%  
+**DSA:** 🟩🟩🟩🟨🟨🟧🟧🟥⬛⬛ 75%  
+**Java:** 🟩🟩🟨🟨🟧🟧⬛⬛⬛⬛ 50%  
+**SQL:** 🟩🟩🟨🟨🟧🟧🟧⬛⬛⬛ 60%  
+**Web Development:** 🟩🟨🟨🟧🟧🟧🟥🟥⬛⬛ 65%  
+**AI/ML:** 🟩🟩🟩🟨🟨🟧🟧🟧🟥⬛ 70%  
 
 ---
 
@@ -40,10 +35,10 @@
 <div align="center">
 
 <!-- GitHub Stats -->
-![Akilan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akil81485&show_icons=true&theme=chartreuse-dark&count_private=true)
+![Akilan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akil81485&show_icons=true&theme=radical&count_private=true)
 
 <!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akil81485&layout=compact&theme=chartreuse-dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akil81485&layout=compact&theme=radical)
 
 <!-- LeetCode -->
 ![LeetCode Stats](https://leetcard.jacoblin.cool/8i9ywAKU5Y?theme=dark)

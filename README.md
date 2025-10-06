@@ -129,7 +129,7 @@
 <!-- Followers, Stars, PRs, etc. as separate shields -->
 [![Followers](https://img.shields.io/github/followers/Akil81485?label=Followers&style=for-the-badge&color=blueviolet)](https://github.com/Akil81485?tab=followers)
 [![Stars](https://img.shields.io/github/stars/Akil81485?label=Stars&style=for-the-badge&color=yellowgreen)](https://github.com/Akil81485?tab=stars)
-[![Pull Requests](https://img.shields.io/github/issues-pr/Akil81485?label=Open+PRs&style=for-the-badge&color=orange)](https://github.com/Akil81485/pulls)
+
 
 </div>
 

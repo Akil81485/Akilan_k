@@ -1,7 +1,8 @@
 <h1 align="center">
   👋 Hello, I'm <span style="color:#00F7FF; font-family:'Courier New', monospace;">Akilan K</span>  
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?duration=3000&pause=800&center=true&vCenter=true&width=500&lines=🚀+Aspiring+Cloud+%26+AI%2FML+Engineer;🔐+Cybersecurity+Enthusiast;💻+Full-Stack+Developer;🤖+AI+Research+Explorer&font=Fira+Code&color=00F7FF&font2=Monoton&color2=FF69B4&font3=Space+Mono&color3=FFA500" alt="Typing SVG" />
+ 
+
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Akilan+K!;Aspiring+Cloud+%26+AI%2FML+Engineer;Cybersecurity+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
 </h1>
 
 

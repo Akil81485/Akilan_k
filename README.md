@@ -121,8 +121,13 @@
 ---
 ### 🏆 Trophies & Recognition
 <div align="center">
-🏆 1st Trophy &nbsp;&nbsp; 🏆 2nd Trophy &nbsp;&nbsp; 🏆 3rd Trophy &nbsp;&nbsp; 🏆 4th Trophy &nbsp;&nbsp; 🏆 5th Trophy
+<img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="50" height="50" alt="Trophy 1">
+<img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="50" height="50" alt="Trophy 2">
+<img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="50" height="50" alt="Trophy 3">
+<img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="50" height="50" alt="Trophy 4">
+<img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="50" height="50" alt="Trophy 5">
 </div>
+
 
 
 ---

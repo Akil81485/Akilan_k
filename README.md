@@ -1,9 +1,7 @@
 <h1 align="center">
-  👋 Hello <span style="color:#00F7FF; font-family:'Courier New', monospace;">Welcome To My Project</span>  
-  <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&width=600&lines=Hello,+I'm+Akilan+K!;Aspiring+Cloud+%26+AI/ML+Engineer;Cybersecurity+Enthusiast;Full-Stack+Developer;👨‍💼+Hey+Recruiter!+Grab+a+coffee+and+scroll+my+skills.;🎓+Hey+Student!+Let's+build+something+amazing+together.;🤝+Connecting+Tech,+People,+and+Ideas!" alt="Typing Animation" />
+👋 Hello <span style="color:#00F7FF; font-family:'Courier New', monospace;">Welcome To My Profile</span><br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&width=600&lines=Hello,+I'm+Akilan+K!;Aspiring+Cloud+%26+AI/ML+Engineer;Cybersecurity+Enthusiast;Full-Stack+Developer;Hey+Recruiter!+Grab+a+coffee+and+scroll+my+skills.;Hey+Student!+Let's+build+something+amazing+together.;Connecting+Tech,+People,+and+Ideas!" alt="Typing SVG" />
 </h1>
-
 
 
 

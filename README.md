@@ -121,8 +121,9 @@
 ---
 ### 🏆 Trophies & Recognition
 <div align="center">
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Akil81485&theme=radical&row=1&column=5&margin-w=10&margin-h=10)
+🏆 1st Trophy &nbsp;&nbsp; 🏆 2nd Trophy &nbsp;&nbsp; 🏆 3rd Trophy &nbsp;&nbsp; 🏆 4th Trophy &nbsp;&nbsp; 🏆 5th Trophy
 </div>
+
 
 ---
 ### 🎖️ Certifications & Learning

@@ -67,8 +67,7 @@
 | **Community Detection Framework** | Python, Graph ML | Social network analysis to detect communities & influencers |
 | **Block-Level Snapshot for Linux FS** | C, Linux | Incremental snapshot tool for data consistency & recovery |
 
----
----
+
 
 ### 🚀 Projects & Experience
 
@@ -114,7 +113,7 @@
 </div>
 
 ---
----
+
 
 ### 📊 GitHub Stats & Analytics
 <div align="center">
@@ -141,17 +140,19 @@
 
 ---
 
-### 🎖️ Certifications
+### 🎖️ Certifications & Learning
 <div align="center">
 
-[![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS-Cloud%20Solutions%20Architect-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.your-cert-link.com)  
-[![Google Cloud Professional Data Engineer](https://img.shields.io/badge/Google%20Cloud-Data%20Engineer-blue?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.your-cert-link.com)  
-[![Coursera Machine Learning](https://img.shields.io/badge/Coursera-Machine%20Learning-red?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments)  
-[![Udemy Python](https://img.shields.io/badge/Udemy-Python-FF0000?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/certificate/)  
-[![HackerRank Python](https://img.shields.io/badge/HackerRank-Python-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates)  
+[![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS-Cloud%20Solutions%20Architect-lightgrey?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=orange)](https://www.your-cert-link.com)  
+[![Google Cloud Professional Data Engineer](https://img.shields.io/badge/Google%20Cloud-Data%20Engineer-lightgrey?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=blue)](https://www.your-cert-link.com)  
+[![Coursera Machine Learning](https://img.shields.io/badge/Coursera-Machine%20Learning-lightgrey?style=for-the-badge&logo=coursera&logoColor=white&labelColor=red)](https://www.coursera.org/account/accomplishments)  
+[![Udemy Python](https://img.shields.io/badge/Udemy-Python-lightgrey?style=for-the-badge&logo=udemy&logoColor=white&labelColor=FF0000)](https://www.udemy.com/certificate/)  
+[![HackerRank Python](https://img.shields.io/badge/HackerRank-Python-lightgrey?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=2EC866)](https://www.hackerrank.com/certificates)  
 
 </div>
 
+
+---
 
 ### 💡 Quote
 > “Opportunities don’t happen. You create them.” — Chris Grosser

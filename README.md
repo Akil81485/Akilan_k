@@ -1,7 +1,6 @@
+<!-- ==================== HEADER ==================== -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=ff69b4&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Akilan+K;" />
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=28&pause=1000&color=00ff00&center=true&vCenter=true&width=700&lines=💻+Fresher+Cloud+AI/ML+Engineer;" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=ff4500&center=true&vCenter=true&width=700&lines=🔐+Cybersecurity+&+Full-Stack;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=ff69b4,00ff00,ff4500&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Akilan+K;💻+Fresher+Cloud+AI/ML+Engineer;🔐+Cybersecurity+%26+Full-Stack" />
 </h1>
 
 ---
@@ -24,8 +23,8 @@
 
 ### 🛠️ Skills
 
-**Python:** 🟩🟩🟩🟩🟨🟨🟧🟧🟥🟥 85%  
-**DSA:** 🟩🟩🟩🟨🟨🟧🟧🟥⬛⬛ 75%  
+**Python:** 🟩🟩🟩🟩🟨🟨🟧🟧🟥🟥 65%  
+**DSA:** 🟩🟩🟩🟨🟨🟧⬛⬛ 65%  
 **Java:** 🟩🟩🟨🟨🟧🟧⬛⬛⬛⬛ 50%  
 **SQL:** 🟩🟩🟨🟨🟧🟧🟧⬛⬛⬛ 60%  
 **Web Development:** 🟩🟨🟨🟧🟧🟧🟥🟥⬛⬛ 65%  
@@ -37,9 +36,9 @@
 
 <div align="center">
 
-![Akilan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akil81485&show_icons=true&theme=radical&count_private=true)  
+![Akilan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akil81485&show_icons=true&theme=radical&count_private=true&hide_border=true)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akil81485&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akil81485&layout=compact&theme=radical&hide_border=true)  
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/8i9ywAKU5Y?theme=dark)  
 
@@ -50,7 +49,6 @@
 ---
 
 ### 🚀 Projects & Experience
-
 
 | Project | Tech Stack | Description |
 |---------|------------|-------------|

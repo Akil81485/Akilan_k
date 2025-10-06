@@ -55,7 +55,20 @@
 </div>
 
 ---
+### 🚀 Projects & Experience
 
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| **YouTube-Audio-Master** | Python, Flask, JS | Converts YouTube videos/playlists into AAC/ALAC audio; batch downloads & multi-user access |
+| **Edge AI Healthcare Monitoring** | Python, TensorFlow, PyTorch, Spark, AWS IoT | Real-time patient monitoring system; 10M+ predictions/day |
+| **MediFin Connect** | Python, AI, Blockchain, Flask, APIs | Telemedicine & fraud-free financial aid for rural communities |
+| **Automatic ML Model Selection** | Python, Scikit-learn, Pandas, Hyperopt | Optimizes ML pipelines & model selection, improving accuracy 10–15% |
+| **FORTICRYPT** | HTML, JS, Cybersecurity | Five-layer hybrid security system protecting web/cloud apps |
+| **BloodCell Classification** | Python, TensorFlow, CNN, Flask | Detects blood cell anomalies; accuracy 88–92% |
+| **Community Detection Framework** | Python, Graph ML | Social network analysis to detect communities & influencers |
+| **Block-Level Snapshot for Linux FS** | C, Linux | Incremental snapshot tool for data consistency & recovery |
+
+---
 ---
 
 ### 🚀 Projects & Experience

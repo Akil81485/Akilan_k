@@ -24,22 +24,36 @@
 
 ---
 
-### 🛠️ Skills
-flowchart TD
-    A[💻 Programming] --> B[[![Python](https://img.shields.io/badge/Python-4/5-blue?logo=python&logoColor=white)]]
-    A --> C[[![Java](https://img.shields.io/badge/Java-2/5-orange?logo=java&logoColor=white)]]
-    A --> D[[![C++](https://img.shields.io/badge/C++-2/5-blue?logo=c%2B%2B&logoColor=white)]]
+### 🛠️ My Skills
 
-    E[🌐 Web Development] --> F[[![HTML](https://img.shields.io/badge/HTML-4/5-red?logo=html5&logoColor=white)]]
-    E --> G[[![CSS](https://img.shields.io/badge/CSS-3/5-blue?logo=css3&logoColor=white)]]
-    E --> H[[![JavaScript](https://img.shields.io/badge/JS-4/5-yellow?logo=javascript&logoColor=white)]]
+![Skill Chart](assets/skill_chart.png)
 
-    I[🗄️ Databases & DSA] --> J[[![SQL](https://img.shields.io/badge/SQL-2/5-blue?logo=postgresql&logoColor=white)]]
-    I --> K[[![DSA](https://img.shields.io/badge/DSA-1/5-lightgrey)]]
+import matplotlib.pyplot as plt
 
-    L[🤖 AI / ML] --> M[[![AI/ML](https://img.shields.io/badge/AI/ML-4/5-green)]]
-    L --> N[[![TensorFlow](https://img.shields.io/badge/TensorFlow-2/5-orange?logo=tensorflow&logoColor=white)]]
-    L --> O[[![PyTorch](https://img.shields.io/badge/PyTorch-2/5-red?logo=pytorch&logoColor=white)]]
+# Skills and levels
+categories = ['Python', 'Java', 'C++', 'HTML', 'CSS', 'JavaScript', 'SQL', 'DSA', 'AI/ML Basics', 'TensorFlow', 'PyTorch']
+levels = [4, 2, 2, 4, 3, 4, 2, 1, 4, 2, 2]
+
+# Colors for categories
+colors = ['#306998', '#f89820', '#00599C', '#e34c26', '#264de4', '#f0db4f', '#336791', '#9b59b6', '#2ecc71', '#f58220', '#e74c3c']
+
+# Plot horizontal bar chart
+plt.figure(figsize=(10,6))
+bars = plt.barh(categories, levels, color=colors)
+plt.xlim(0,5)
+plt.xlabel('Skill Level (out of 5)')
+plt.title('Professional Skill Chart')
+plt.gca().invert_yaxis()  # Highest skill on top
+
+# Label each bar with level
+for bar, level in zip(bars, levels):
+    plt.text(level + 0.1, bar.get_y() + bar.get_height()/2, str(level), va='center', fontweight='bold')
+
+plt.tight_layout()
+
+# Save chart as image
+plt.savefig("assets/skill_chart.png", dpi=300)
+plt.show()
 
 ---
 

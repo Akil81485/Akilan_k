@@ -1,12 +1,64 @@
 <!-- ==================== HEADER ==================== -->
-<h1 align="center">
+<h1 align="center" style="font-family: 'Poppins', sans-serif;">
 
-👋 <span style="color:#00ffcc; font-weight:bold;">Hello, I'm <span style="font-family:'Courier New', monospace;">Akilan K</span></span>  
-🚀 <span style="color:#ff69b4; font-weight:bold;">Aspiring Cloud & AI/ML Engineer</span>  
-🔐 <span style="color:#ff4500; font-weight:bold;">Cybersecurity Enthusiast</span>  
-💻 <span style="color:#1E90FF; font-weight:bold;">Full-Stack Developer</span>
+  👋 <span style="
+    font-weight: bold;
+    background: linear-gradient(90deg, #00ffcc, #00b3ff, #ff00cc);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: gradientMove 3s infinite alternate;
+  ">Hello, I'm <span style="font-family:'Courier New', monospace;">Akilan K</span></span>
+  <br>
+
+  🚀 <span style="
+    display: inline-block;
+    font-weight: bold;
+    color: #ff69b4;
+    animation: floatText 2s ease-in-out infinite;
+  ">Aspiring Cloud & AI/ML Engineer</span>
+  <br>
+
+  🔐 <span style="
+    display: inline-block;
+    font-weight: bold;
+    color: #ff4500;
+    text-shadow: 0 0 10px #ff4500, 0 0 20px #ff784f;
+    animation: pulseGlow 1.8s infinite alternate;
+  ">Cybersecurity Enthusiast</span>
+  <br>
+
+  💻 <span style="
+    display: inline-block;
+    font-weight: bold;
+    color: #1E90FF;
+    text-shadow: 0 0 10px #1E90FF, 0 0 20px #00bfff;
+    animation: slideIn 2.5s ease-in-out infinite alternate;
+  ">Full-Stack Developer</span>
 
 </h1>
+
+<style>
+@keyframes gradientMove {
+  from { background-position: 0% 50%; }
+  to { background-position: 100% 50%; }
+}
+
+@keyframes floatText {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-5px); }
+}
+
+@keyframes pulseGlow {
+  from { text-shadow: 0 0 5px #ff4500, 0 0 15px #ff784f; }
+  to { text-shadow: 0 0 20px #ff784f, 0 0 40px #ffa07a; }
+}
+
+@keyframes slideIn {
+  0% { transform: translateX(-5px); opacity: 0.7; }
+  100% { transform: translateX(5px); opacity: 1; }
+}
+</style>
+
 
 ---
 ### 📫 Contact Me
@@ -139,17 +191,18 @@
 </div>
 
 ---
-
 ### 🎖️ Certifications & Learning
 <div align="center">
 
-[![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS-Cloud%20Solutions%20Architect-lightgrey?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=orange)](https://www.your-cert-link.com)  
-[![Google Cloud Professional Data Engineer](https://img.shields.io/badge/Google%20Cloud-Data%20Engineer-lightgrey?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=blue)](https://www.your-cert-link.com)  
-[![Coursera Machine Learning](https://img.shields.io/badge/Coursera-Machine%20Learning-lightgrey?style=for-the-badge&logo=coursera&logoColor=white&labelColor=red)](https://www.coursera.org/account/accomplishments)  
-[![Udemy Python](https://img.shields.io/badge/Udemy-Python-lightgrey?style=for-the-badge&logo=udemy&logoColor=white&labelColor=FF0000)](https://www.udemy.com/certificate/)  
-[![HackerRank Python](https://img.shields.io/badge/HackerRank-Python-lightgrey?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=2EC866)](https://www.hackerrank.com/certificates)  
+[![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS-Cloud%20Solutions%20Architect-lightgrey?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=orange)](https://www.certmetrics.com/amazon/public/badge.aspx?i=XXXXX)  
+[![Google Cloud Professional Data Engineer](https://img.shields.io/badge/Google%20Cloud-Data%20Engineer-lightgrey?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=blue)](https://www.cloudskillsboost.google/public_profiles/your_profile_id)  
+[![Coursera Machine Learning](https://img.shields.io/badge/Coursera-Machine%20Learning-lightgrey?style=for-the-badge&logo=coursera&logoColor=white&labelColor=red)](https://coursera.org/share/your_certificate_id)  
+[![Udemy Python](https://img.shields.io/badge/Udemy-Python-lightgrey?style=for-the-badge&logo=udemy&logoColor=white&labelColor=FF0000)](https://www.udemy.com/certificate/your_certificate_id)  
+[![HackerRank Python](https://img.shields.io/badge/HackerRank-Python-lightgrey?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=2EC866)](https://www.hackerrank.com/certificates/your_certificate_id)  
 
 </div>
+
+
 
 
 ---

@@ -1,12 +1,6 @@
 <h1 align="center">
-
-👋 <span style="color:#00bfff;"><b>Hello, I'm <span style="font-family:'Courier New', monospace;">Akilan K</span></b></span>  
-🚀 <span style="color:#ff69b4;">Aspiring <b>Cloud & AI/ML Engineer</b></span>  
-🔐 <span style="color:#ff4500;">Cybersecurity Enthusiast</span>  
-💻 <span style="color:#1E90FF;">Full-Stack Developer</span>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Akilan+K!;Aspiring+Cloud+%26+AI%2FML+Engineer;Cybersecurity+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
 </h1>
-
 
 
 ---

@@ -41,22 +41,7 @@
 
 ---
 
-### 🌟 Achievements & Stats
-
-<div align="center">
-
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akil81485&show_icons=true&theme=radical&count_private=true&hide_border=true)  
-
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akil81485&layout=compact&theme=radical&hide_border=true)  
-
-<!-- Profile Views -->
-![Profile Views](https://komarev.com/ghpvc/?username=Akil81485&style=for-the-badge&color=blueviolet)  
-
-</div>
----
-### 🚀 Projects & Experience
+###🚀 Projects & Experience
 
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
@@ -71,7 +56,7 @@
 
 
 
-### 🚀 Projects & Experience
+🚀 Projects & Experience
 
 <div align="center">
 

@@ -25,16 +25,21 @@
 ---
 
 ### 🛠️ Skills
-<div align="center">
+flowchart TD
+    A[💻 Programming] --> B[[![Python](https://img.shields.io/badge/Python-4/5-blue?logo=python&logoColor=white)]]
+    A --> C[[![Java](https://img.shields.io/badge/Java-2/5-orange?logo=java&logoColor=white)]]
+    A --> D[[![C++](https://img.shields.io/badge/C++-2/5-blue?logo=c%2B%2B&logoColor=white)]]
 
-[![Python](https://img.shields.io/badge/Python-Beginner-yellow?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
-[![DSA](https://img.shields.io/badge/DSA-Beginner-lightgrey?style=for-the-badge)]  
-[![Java](https://img.shields.io/badge/Java-Beginner-orange?style=for-the-badge&logo=java&logoColor=white)]  
-[![SQL](https://img.shields.io/badge/SQL-Beginner-blue?style=for-the-badge&logo=postgresql&logoColor=white)]  
-[![Web Dev](https://img.shields.io/badge/Web%20Development-Beginner-red?style=for-the-badge)]  
-[![AI/ML](https://img.shields.io/badge/AI/ML-Beginner-green?style=for-the-badge)]
+    E[🌐 Web Development] --> F[[![HTML](https://img.shields.io/badge/HTML-4/5-red?logo=html5&logoColor=white)]]
+    E --> G[[![CSS](https://img.shields.io/badge/CSS-3/5-blue?logo=css3&logoColor=white)]]
+    E --> H[[![JavaScript](https://img.shields.io/badge/JS-4/5-yellow?logo=javascript&logoColor=white)]]
 
-</div>
+    I[🗄️ Databases & DSA] --> J[[![SQL](https://img.shields.io/badge/SQL-2/5-blue?logo=postgresql&logoColor=white)]]
+    I --> K[[![DSA](https://img.shields.io/badge/DSA-1/5-lightgrey)]]
+
+    L[🤖 AI / ML] --> M[[![AI/ML](https://img.shields.io/badge/AI/ML-4/5-green)]]
+    L --> N[[![TensorFlow](https://img.shields.io/badge/TensorFlow-2/5-orange?logo=tensorflow&logoColor=white)]]
+    L --> O[[![PyTorch](https://img.shields.io/badge/PyTorch-2/5-red?logo=pytorch&logoColor=white)]]
 
 ---
 

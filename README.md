@@ -1,9 +1,9 @@
-
-<!-- ==================== HEADER ==================== -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&pause=1000&color=00ffcc,ff69b4,ff4500,1E90FF,32CD32&center=true&vCenter=true&width=900&lines=👋+Hello,+I'm+Akilan+K;%F0%9F%9A%80+Aspiring+Cloud+%26+AI/ML+Engineer;%F0%9F%94%90+Cybersecurity+Enthusiast;%F0%9F%92%BB+Full-Stack+Developer" alt="Typing SVG" />
+👋 Hello, I'm <b>Akilan K</b>  
+🚀 Aspiring Cloud & AI/ML Engineer  
+🔐 Cybersecurity Enthusiast  
+💻 Full-Stack Developer
 </h1>
-<!-- ==================== HEADER ==================== -->
 
 
 ---

@@ -21,6 +21,7 @@
 ---
 
 ### 🛠️ Skills
+
 **Python:** 🟩🟩🟩🟩🟨🟨🟧🟧🟥🟥 85%  
 **DSA:** 🟩🟩🟩🟨🟨🟧🟧🟥⬛⬛ 75%  
 **Java:** 🟩🟩🟨🟨🟧🟧⬛⬛⬛⬛ 50%  
@@ -34,17 +35,13 @@
 
 <div align="center">
 
-<!-- GitHub Stats -->
-![Akilan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akil81485&show_icons=true&theme=radical&count_private=true)
+![Akilan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akil81485&show_icons=true&theme=radical&count_private=true)  
 
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akil81485&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akil81485&layout=compact&theme=radical)  
 
-<!-- LeetCode -->
-![LeetCode Stats](https://leetcard.jacoblin.cool/8i9ywAKU5Y?theme=dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/8i9ywAKU5Y?theme=dark)  
 
-<!-- Profile Views -->
-![Profile Views](https://komarev.com/ghpvc/?username=Akil81485&style=for-the-badge&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=Akil81485&style=for-the-badge&color=blueviolet)  
 
 </div>
 
@@ -66,13 +63,12 @@
 ---
 
 ### 📊 Analytics & Graphs
+
 <div align="center">
 
-<!-- Contributions Graph -->
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Akil81485&theme=react-dark&hide_border=true)
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Akil81485&theme=react-dark&hide_border=true)  
 
-<!-- LeetCode Problem Solving Graph -->
-![LeetCode Stats](https://leetcard.jacoblin.cool/8i9ywAKU5Y?theme=dark&border=true)
+![LeetCode Stats](https://leetcard.jacoblin.cool/8i9ywAKU5Y?theme=dark&border=true)  
 
 </div>
 

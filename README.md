@@ -1,5 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00ffcc&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hello,+I'm+Akilan+K;%F0%9F%9A%80+Aspiring+Cloud+%26+AI/ML+Engineer;%F0%9F%94%90+Cybersecurity+Enthusiast;%F0%9F%92%BB+Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=ff69b4&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Akilan+K;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=28&pause=1000&color=00ff00&center=true&vCenter=true&width=700&lines=💻+Fresher+Cloud+AI/ML+Engineer;" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=ff4500&center=true&vCenter=true&width=700&lines=🔐+Cybersecurity+&+Full-Stack;" />
 </h1>
 
 ---

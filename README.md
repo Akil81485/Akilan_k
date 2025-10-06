@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="assets/typing-header.gif" alt="Hi, I'm Akilan K" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=ff69b4&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Akilan+K;💻+Fresher+Cloud+AI/ML+Engineer;🔐+Cybersecurity+&+Full-Stack" />
 </h1>
 
 ---
@@ -49,16 +49,16 @@
 
 ### 🚀 Projects & Experience
 
-| Project | Tech Stack | Screenshot | Description |
-|---------|------------|-----------|-------------|
-| **YouTube-Audio-Master** | Python, Flask, JS | <img src="assets/youtube-audio-master.png" width="200"/> | Converts YouTube videos/playlists into AAC/ALAC audio; batch downloads & multi-user access |
-| **Edge AI Healthcare Monitoring** | Python, TensorFlow, PyTorch, Spark, AWS IoT | <img src="assets/edge-ai-healthcare.png" width="200"/> | Real-time patient monitoring system; 10M+ predictions/day |
-| **MediFin Connect** | Python, AI, Blockchain, Flask, APIs | <img src="assets/medifin-connect.png" width="200"/> | Telemedicine & fraud-free financial aid for rural communities |
-| **Automatic ML Model Selection** | Python, Scikit-learn, Pandas, Hyperopt | — | Optimizes ML pipelines & model selection, improving accuracy 10–15% |
-| **FORTICRYPT** | HTML, JS, Cybersecurity | <img src="assets/forticrypt.png" width="200"/> | Five-layer hybrid security system protecting web/cloud apps |
-| **BloodCell Classification** | Python, TensorFlow, CNN, Flask | <img src="assets/bloodcell-classification.png" width="200"/> | Detects blood cell anomalies; accuracy 88–92% |
-| **Community Detection Framework** | Python, Graph ML | <img src="assets/community-detection.png" width="200"/> | Social network analysis to detect communities & influencers |
-| **Block-Level Snapshot for Linux FS** | C, Linux | — | Incremental snapshot tool for data consistency & recovery |
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| **YouTube-Audio-Master** | Python, Flask, JS | Converts YouTube videos/playlists into AAC/ALAC audio; batch downloads & multi-user access |
+| **Edge AI Healthcare Monitoring** | Python, TensorFlow, PyTorch, Spark, AWS IoT | Real-time patient monitoring system; 10M+ predictions/day |
+| **MediFin Connect** | Python, AI, Blockchain, Flask, APIs | Telemedicine & fraud-free financial aid for rural communities |
+| **Automatic ML Model Selection** | Python, Scikit-learn, Pandas, Hyperopt | Optimizes ML pipelines & model selection, improving accuracy 10–15% |
+| **FORTICRYPT** | HTML, JS, Cybersecurity | Five-layer hybrid security system protecting web/cloud apps |
+| **BloodCell Classification** | Python, TensorFlow, CNN, Flask | Detects blood cell anomalies; accuracy 88–92% |
+| **Community Detection Framework** | Python, Graph ML | Social network analysis to detect communities & influencers |
+| **Block-Level Snapshot for Linux FS** | C, Linux | Incremental snapshot tool for data consistency & recovery |
 
 ---
 
@@ -83,4 +83,3 @@
 
 ### 💡 Quote
 > “Opportunities don’t happen. You create them.” — Chris Grosser
-

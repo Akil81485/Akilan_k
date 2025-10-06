@@ -30,14 +30,15 @@
 ---
 
 ### 🛠️ Skills
-
 <div align="center">
-**Python:** 🟩🟩🟩🟩🟨🟨🟧🟧🟥🟥 65%  
-**DSA:** 🟩🟩🟩🟨🟨🟧⬛⬛ 65%  
-**Java:** 🟩🟩🟨🟨🟧🟧⬛⬛⬛⬛ 50%  
-**SQL:** 🟩🟩🟨🟨🟧🟧🟧⬛⬛⬛ 60%  
-**Web Development:** 🟩🟨🟨🟧🟧🟧🟥🟥⬛⬛ 65%  
-**AI/ML:** 🟩🟩🟩🟨🟨🟧🟧🟧🟥⬛ 70%
+
+[![Python](https://img.shields.io/badge/Python-Beginner-yellow?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
+[![DSA](https://img.shields.io/badge/DSA-Beginner-lightgrey?style=for-the-badge)]  
+[![Java](https://img.shields.io/badge/Java-Beginner-orange?style=for-the-badge&logo=java&logoColor=white)]  
+[![SQL](https://img.shields.io/badge/SQL-Beginner-blue?style=for-the-badge&logo=postgresql&logoColor=white)]  
+[![Web Dev](https://img.shields.io/badge/Web%20Development-Beginner-red?style=for-the-badge)]  
+[![AI/ML](https://img.shields.io/badge/AI/ML-Beginner-green?style=for-the-badge)]
+
 </div>
 
 ---

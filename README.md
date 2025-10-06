@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=ff69b4&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Akilan+K;💻+Fresher+Cloud+AI/ML+Engineer;🔐+Cybersecurity+&+Full-Stack" />
+  <img src="assets/typing-header.gif" alt="Hi, I'm Akilan K" />
 </h1>
+
 
 ---
 

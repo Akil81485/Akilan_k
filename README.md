@@ -14,8 +14,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/akilanofficial/)](https://www.linkedin.com/in/akilanofficial/) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/Akil81485)](https://github.com/Akil81485) 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/akilan_cx)](https://twitter.com/akilan_cx) 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/akilan_cx/)](https://www.instagram.com/akilan_cx/) 
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/akil_x3/)](https://www.instagram.com/akilan_cx/) 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:akilan.3.official@gmail.com)](mailto:akilan.3.official@gmail.com) 
 [![HackerOne](https://img.shields.io/badge/-HackerOne-000000?style=flat-square&logo=hackerone&logoColor=white&link=https://hackerone.com/akilan_cx)](https://hackerone.com/akilan_cx) 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/u/8i9ywAKU5Y/)](https://leetcode.com/u/8i9ywAKU5Y/)

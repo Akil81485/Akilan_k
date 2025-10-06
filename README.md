@@ -121,12 +121,15 @@
 ---
 ### 🏆 Trophies & Recognition
 <div align="center">
-<img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="50" height="50" alt="Trophy 1">
-<img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="50" height="50" alt="Trophy 2">
-<img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="50" height="50" alt="Trophy 3">
-<img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="50" height="50" alt="Trophy 4">
-<img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="50" height="50" alt="Trophy 5">
+
+![Trophy 1](https://img.shields.io/badge/Trophy-1-gold?style=for-the-badge&logo=trophy)
+![Trophy 2](https://img.shields.io/badge/Trophy-2-silver?style=for-the-badge&logo=trophy)
+![Trophy 3](https://img.shields.io/badge/Trophy-3-bronze?style=for-the-badge&logo=trophy)
+![Trophy 4](https://img.shields.io/badge/Trophy-4-blue?style=for-the-badge&logo=trophy)
+![Trophy 5](https://img.shields.io/badge/Trophy-5-purple?style=for-the-badge&logo=trophy)
+
 </div>
+
 
 
 
